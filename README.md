@@ -1,8 +1,3 @@
-# An incredible project
+# Code from JSON to CSV livestream
 
-This is the file you get to write to document your new project!
-
-Also, don't forget to edit the couple of references in CONTRIBUTING.md that will need to be customized to link to this repo.
-Update the LICENSE file with the correct date and attribution.
-
-You also might want to create a .gitignore file to make things nicer.
+Code from a live session, where we discussed how to start working with the data returned from v2 of the Twitter API. We covered how to work with nested JSON and send your data to a CSV.
