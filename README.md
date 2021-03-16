@@ -2,6 +2,11 @@
 
 Code from a live session on March 16th 2020. In this session we discussed how to start working with the data returned from v2 of the Twitter API. We covered how to work with nested JSON and send your data to a CSV.
 
+## Setting up your environment variable
+For all the code samples you will first need to set up an environment variable in your terminal to save your bearer token to your request. You will need to replace your-bearer-token with your own bearer token. Be sure to keep the single quotes around your bearer token.
+
+`export BEARER_TOKEN='your-bearer-token'`
+
 ## Links and Resources
 
 - [Apply for access](https://developer.twitter.com/en/apply-for-access)
