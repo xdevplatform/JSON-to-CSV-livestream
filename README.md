@@ -5,7 +5,9 @@ Code from a live session on March 16th 2020. In this session we discussed how to
 ## Setting up your environment variable
 For all the code samples you will first need to set up an environment variable in your terminal to save your bearer token to your request. You will need to replace your-bearer-token with your own bearer token. Be sure to keep the single quotes around your bearer token.
 
-`export BEARER_TOKEN='your-bearer-token'`
+```bash
+export BEARER_TOKEN='your-bearer-token'
+```
 
 ## Links and Resources
 
@@ -26,3 +28,18 @@ For all the code samples you will first need to set up an environment variable i
 - [Pandas docs](https://pandas.pydata.org/docs/)
 
 - [Twarc expansions](https://github.com/DocNow/twarc/blob/v2/twarc/expansions.py)
+
+
+## Contributing
+
+We welcome pull requests that add meaningful additions to these code samples, particularly for languages that are not yet represented here.
+
+We feel that a welcoming community is important and we ask that you follow Twitter's
+[Open Source Code of Conduct](https://github.com/twitter/code-of-conduct/blob/master/code-of-conduct.md)
+in all interactions with the community.
+
+## License
+
+Copyright 2020 Twitter, Inc.
+
+Licensed under the Apache License, Version 2.0: https://www.apache.org/licenses/LICENSE-2.0
